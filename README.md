@@ -117,7 +117,7 @@ plt.title("Customer Segment")
 
 7.CUSTOMER SEGMENT:
 
-![Uploading image.png…]()
+![image](https://github.com/kavyasenthamarai/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118668727/2ff95933-2676-440f-a62b-5b796924afe2)
 
 
 ## Result:
